@@ -1,0 +1,3 @@
+To run the project:
+in the Terminal -> npm run dev
+and open the url
